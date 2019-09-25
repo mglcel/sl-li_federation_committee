@@ -60,12 +60,44 @@ préparer à minima le voyage, une anaphore s'impose :
 * j'ai la capacité de suivre l'implémentation des normes émises.
 
 ## Comment créer sa Fédération
-Ci-dessous, 2 graphiques pour suivre la création d'une Fédération et en définir le cadre, et légitimité.
+
+**1 - Identification d’un besoin normatif**
+Le comité, les synchros, une équipe remontent un besoin
+
+**2 - Trouver un capitaine**
+Un TL se propose ou est nommé en fonction de sa légitimé sur le sujet
+
+**3 - Selectionner une équipe**
+Le capitaine propose une liste de membres SL/LI experts disponibles de manière rationnelle
+
+**4 - Valider la Fédération**
+Le comité, composé des ITM du groupe TLC et bien sûr du CTO, challenge ou valide la création et la composition de la Fédération.
+
+**5 - Formaliser le fonctionnement**
+Lors de la création, on pose le rythme des rituels, on défini des premiers KPI, et surtout sa raison d’être.
+
+**6 - Communiquer !**
+Une Fédération se créée : criez le sur les toits!
 
 
+## Formaliser
+**Pourquoi?**
+Définir le but de la Fédération.
 
+**Quand?**
+Définir le rythme de travail de la Fédération.
 
+**Quoi?**
+Définir une première roadmap.
 
+**Qui?**
+Répartir les rôles dans l’équipe.
+
+**Comment?**
+Définir le ou les premiers KPI de l’action de la Fédération visible pour le Comité.
+
+**Communiquer !**
+Vers le Comité, les membres , les autres Fédérations, le produit, l’IT, AVIV… Toute personne ou entité potentiellement intéressé par le sujet.
 
 
 ## Y'a-t-il un pilote dans la Fédération ?
