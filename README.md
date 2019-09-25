@@ -146,7 +146,7 @@ Nous avons évoqué le Comité, une entité composée des IT Managers, du CTO, m
 Définition | Règles
 ---------- | ------
   **Composition** | Sélection par le capitaine / validé par le comité
- - | Présence obligatoire, hormis observateurs (3 max par réunion).
+ _ | Présence obligatoire, hormis observateurs (3 max par réunion).
  _ | De 5 à 8 experts, dont le capitaine et le greffier.
  _ | Mixité LI - SL]
  _ | Ouvert aux membres hors IT si jugé pertinent par le comité
