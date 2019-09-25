@@ -134,12 +134,11 @@ La Fédération peut faire appel à des compétences extérieures, des outils (l
 Définition | Règles
 ---------- | ------
   Composition | Sélection par le capitaine / validé par le comité
----------------------- | ------------------------
  | Présence obligatoire, hormis observateurs (3 max par réunion).
-  []{dir="ltr"}                     [De 5 à 8 experts, dont le capitaine et le greffier.]{dir="ltr"}
-  []{dir="ltr"}                     [Mixité LI - SL]{dir="ltr"}
-  []{dir="ltr"}                     [Ouvert aux membres hors IT si jugé pertinent par le comité]{dir="ltr"}
-  [Objectifs]{dir="ltr"}            [Créer des normes et suivre leur application]{dir="ltr"}
+ | De 5 à 8 experts, dont le capitaine et le greffier.
+ | Mixité LI - SL]
+ | Ouvert aux membres hors IT si jugé pertinent par le comité
+Objectifs | Créer des normes et suivre leur application
   []{dir="ltr"}                     [Définir et diffuser les bonnes pratiques]{dir="ltr"}
   []{dir="ltr"}                     [Veille technologique / et initiatives internes]{dir="ltr"}
   []{dir="ltr"}                     [Support à la décision]{dir="ltr"}
