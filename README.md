@@ -1,3 +1,5 @@
+![Don't Panic](img/dontpanic.png)
+
 # Ma Fédération.
 
 *« Le **Groupe SeLoger**, frontière de l\'infini, vers lequel voyage notre
@@ -8,27 +10,28 @@ mépris du danger, accompagner vers l\'inconnu\... »*
 *Star Trek, revu et corrigé pour les besoins de la
 **Fédération***
 
-**La Fédération est là pour vous aider. A travers ce document, nous allons donc vous expliquer son but, sa vie, son œuvre. Et avec un peu de chance, à la fin, vous aurez envie d'en être.**
+> **La Fédération est là pour vous aider. A travers ce document, nous allons donc vous expliquer son but, sa vie, son œuvre. Et avec un peu
+> de chance, à la fin, vous aurez envie d'en être.**
 
 
 ## Une Fédération, oui...mais pourquoi ?
 
-L'IT converge vers un niveau de qualité de développement en constante augmentation, les exigences de qualité et de portabilité de nos
-technologies également.
+L'IT converge vers un niveau de qualité de développement en constante augmentation, les exigences de qualité et de portabilité de nos technologies également.
 
 Notre activité nous amène à bien plus échanger et partager et à être de plus en plus réactifs face aux défis d'Internet et donc face à la concurrence.
 
-### Comment échanger si on ne parle pas la même langue ?
+ - **Comment échanger si on ne parle pas la même langue ?**
+ - **Comment avoir des choix cohérents entre les équipes ?**
+ - **Comment diffuser les bonnes pratiques, les partager, convaincre de les utiliser ?**
+ - **Comment capitaliser sur nos expériences au niveau du Groupe Seloger ?**
 
-### Comment avoir des choix cohérents entre les équipes ?
+**-->** La réponse, et ça tombe bien car c'est l'objet du document : __la **Fédération**__ !
 
-### Comment diffuser les bonnes pratiques, les partager, convaincre de les utiliser?
+> Une Fédération est une association normative. Elle définit les bonnes
+> pratiques à suivre et les diffuse. Elle accompagne les équipes en leur
+> délivrant un niveau de connaissance et de compétence élevé leur
+> permettant d'avancer plus sereinement dans leur développement.
 
-### Comment capitaliser sur nos expériences au niveau du Groupe Seloger?
-
-### La réponse, et ça tombe bien car c'est l'objet du document : la **Fédération** !
-
-Une Fédération est une association normative. Elle définit les bonnes pratiques à suivre et les diffuse. Elle accompagne les équipes en leur délivrant un niveau de connaissance et de compétence élevé leur permettant d'avancer plus sereinement dans leur développement.
 L'objectif : un cercle vertueux nous emmenant vers toujours plus de qualité et de performance, pour nos utilisateurs, leur confort quotidien et leur satisfaction en ligne de mire.
 
 Une fois cette définition donnée, voyons comment passer de la théorie à
@@ -42,22 +45,24 @@ préparer à minima le voyage, une anaphore s'impose :
 
 **Moi Fédération** :
 
-* j'ai des objectifs édictés à ma création,
-* j'ai été créé sur validation d'un **comité** (on va vous le présenter, vous verrez, ils sont très sympas),
-* ma durée de vie est **longue** tant que je suis **pertinente,**
-* je peux être **dissoute** sur demande de la Fédération elle même ou du **Comité**
-* je ne suis composée que de membres dotés d'une expertise certaine sur le sujet considéré,
-* j'ai à ma tête un **capitaine** et un **greffier,**
-* je suis composée d'un minimum de **5 membres**, et d'un maximum de **8 membres**, de tous horizons : **SL** comme **LI**, **interne, externe (sauf capitaine),**
-* je tolère les **observateurs** (nous reviendrons plus loin sur le rôle de l'observateur),
-* je **communique** sur mon action et diffuse mon savoir, je suis joignable facilement et publiquement,
-* je dispose d'un **budget** de fonctionnement soumis à la validation du comité,
-* je mets en place mes **KPI**,
-* A ma création, je définis la fréquence des rencontres, le temps alloué pour le sujet de la Fédération, ces valeurs pourront par la suite évoluer,
-* je peux fonctionner avec des membres en remote sans problème,
-* Je m'assure que les choix sont faits démocratiquement et en accord avec le cadre de la stratégie Groupe : votés à la majorité absolue,
-* je prône la **transparence** sur mon action et mes choix : je les rends disponible à tous, sous slack, confluence, board visuel....
-* j'ai la capacité de suivre l'implémentation des normes émises.
+> * J'ai des objectifs édictés à ma création,
+> * J'ai été créé sur validation d'un **comité** (on va vous le présenter, vous verrez, ils sont très sympas),
+> * Ma durée de vie est **longue** tant que je suis **pertinente,**
+> * Je peux être **dissoute** sur demande de la Fédération elle même ou du **Comité**
+> * Je ne suis composée que de membres dotés d'une expertise certaine sur le sujet considéré,
+> * J'ai à ma tête un **capitaine** et un **greffier,**
+> * Je suis composée d'un minimum de **5 membres**, et d'un maximum de **8 membres**, de tous horizons : **SL** comme **LI**, **interne, externe (sauf capitaine),**
+> * Je tolère les **observateurs** (nous reviendrons plus loin sur le rôle de l'observateur),
+> * Je **communique** sur mon action et diffuse mon savoir, je suis joignable facilement et publiquement,
+> * Je dispose d'un **budget** de fonctionnement soumis à la validation du comité,
+> * Je mets en place mes **KPI**,
+> * A ma création, je définis la fréquence des rencontres, le temps alloué pour le sujet de la Fédération, ces valeurs pourront par la
+> suite évoluer,
+> * Je peux fonctionner avec des membres en remote sans problème,
+> * Je m'assure que les choix sont faits démocratiquement et en accord avec le cadre de la stratégie Groupe : __votés à la majorité
+> absolue__,
+> * Je prône la **transparence** sur mon action et mes choix : je les rends disponible à tous, sous slack, confluence, board visuel....
+> * J'ai la capacité de suivre l'implémentation des normes émises.
 
 ## Comment créer sa Fédération
 
@@ -233,4 +238,3 @@ baskets ? Tu rentres pas !* » Christophe Castaner). Ce rôle n'est soumis
 à aucune obligation de présence. Pas de limite d'observateurs dans une
 Fédération, mais une présence limitée à 3 obs dans une session de la
 Fédération.]
-
