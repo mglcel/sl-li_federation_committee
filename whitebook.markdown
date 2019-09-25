@@ -63,6 +63,10 @@ Ci-dessous, 2 graphiques pour suivre la création d'une Fédération et en défi
 
 
 
+
+
+
+
 ## Y'a-t-il un pilote dans la Fédération ?
 
 Dans la partie précédente nous avons défini l'objectif et les grandes lignes de la Fédération maintenant il faut voir comment gérer le travail au quotidien. Une fédération a besoin de quelqu'un pour mener la barque, préparer le terrain des échanges, **une tête de gondole** identifiable et identifiée, à l'aise avec la gestion de projet et l'encadrement. En somme un pilote sachant monter une **équipe** (qu'il proposera au Comité pour validation) et maintenir la Fédération dans le cap défini par la **stratégie Groupe**...
@@ -83,145 +87,48 @@ Il est également en charge de la bonne prise en compte des actions par les équ
 
 Il est l'interlocuteur privilégié du Comité, et vous pouvez lire la suite ici sur ce sujet. ("La Fédération n'est jamais seule").
 
-[**Le Capitaine est un Team Leader**.]{dir="ltr"}
+**Le Capitaine est un Team Leader**.
 
-[]{dir="ltr"}
+## Comment un cartel expert peut vendre sa came ?
 
-[Comment un cartel expert peut vendre sa came ?]{dir="ltr"}
-===========================================================
+La Fédération produit de la convergence, au travers de normes, de bonnes pratiques, de POC, d'avis. Son but est bien de **fédérer** au-delà d'elle même, il est indispensable de diffuser largement ce travail. Rendre accessible ces résultats est une obligation :
 
-[ ]{dir="ltr"}
+* Une fois par trimestre, minimum, une **review** doit être organisée par la Fédération pour présenter le travail effectué : Réussites comme échecs. Cette review est ouverte à toute personne intéressée.
+* **Slack** : un canal ouvert à tous permettra les interactions avec les équipes, connaitre l'avancement de tel ou tel sujet, prévenir sur l'arrivée d'une prochaine session de la Fédération ou même soumettre des sujets d'étude. Bien évidemment, un canal plus privé réservé aux membres de la Fédération peut être mis à disposition. Le capitaine en est le modérateur.
+* **Confluence** : chaque Fédération aura un espace confluence réservé, où elle stockera ses CR de réunion. On prendra soin d'expliquer et justifier les choix de la Fédération. Cet espace pourra contenir des exemples, des POC mis à disposition, des liens vers des articles du web... tout ce qui permettra de comprendre et d'appliquer avoir joie les recommandations. Enfin, et surtout, la visibilité sera de mise avec l'affichage de la feuille de route de la Fédération (lien Jira, liste des équipes concernées...)
+* **Jira** : là aussi, un espace dédié par Fédération, où le backlog sera disponible. Les épopées de la Fédération permettront de suivre les tickets afférants dans les équipes concernées. Les US des épopées seront dans les backlogs des équipes concernées.
+* **Email** : c'est facultatif, mais chaudement recommandé, surtout si la Fédération doit s'abonner à des newsletters, s'inscrire à des sites etc...
+* **Compte Rendu** : Toutes les actions du CR doivent être communiquées aux équipes concernées : par mail, par slack (le canal de la Fédération, ainsi que le canal des Fédérations), par Confluence...
+* **et toute autre forme et support de communication possible et imaginable (newsletters, meetups, bbl, \...) !
 
-[La Fédération produit de la convergence, au travers de normes, de
-bonnes pratiques, de POC, d'avis. Son but est bien de **fédérer**
-au-delà d'elle même, il est indispensable de diffuser largement ce
-travail. Rendre accessible ces résultats est une obligation
-:]{dir="ltr"}
+Ces axes de communication permettront un échange constant entre la Fédération et ses consommateurs pour s'assurer d'un feedback continu.
 
-[]{dir="ltr"}
+La Fédération veillera à la remontée d'alertes, elle prendra soin de prévenir des attentes qu'elle fait porter sur chaque équipe, afin que les POs puissent anticiper la priorisation d'actions de convergence
 
--   [Une fois par trimestre, minimum, une **review** doit être organisée
-    > par la Fédération pour présenter le travail effectué : Réussites
-    > comme échecs. Cette review est ouverte à toute personne
-    > intéressée.]{dir="ltr"}
+La Fédération a le pouvoir de lancer des audits, afin de cibler les équipes les plus en attentes de support. Elle suit l'application de ses normes, s'assure de l'accomplissement de sa roadmap, lance des ETTs afin d'explorer des champs technologiques ou coloniser des
+pratiques.
 
--   [**Slack** : un canal ouvert à tous permettra les interactions avec
-    > les équipes, connaitre l'avancement de tel ou tel sujet, prévenir
-    > sur l'arrivée d'une prochaine session de la Fédération ou même
-    > soumettre des sujets d'étude. Bien évidemment, un canal plus privé
-    > réservé aux membres de la Fédération peut être mis à disposition.
-    > Le capitaine en est le modérateur.]{dir="ltr"}
+**La Fédération n'est jamais seule**
 
--   [**Confluence** : chaque Fédération aura un espace confluence
-    > réservé, où elle stockera ses CR de réunion. On prendra soin
-    > d'expliquer et justifier les choix de la Fédération. Cet espace
-    > pourra contenir des exemples, des POC mis à disposition, des liens
-    > vers des articles du web... tout ce qui permettra de comprendre et
-    > d'appliquer avoir joie les recommandations. Enfin, et surtout, la
-    > visibilité sera de mise avec l'affichage de la feuille de route de
-    > la Fédération (lien Jira, liste des équipes
-    > concernées...)]{dir="ltr"}
+Nous avons évoqué le Comité, une entité composée des IT Managers, du CTO, mais également des TLs du groupe TLC.
 
--   [**Jira** : là aussi, un espace dédié par Fédération, où le backlog
-    > sera disponible. Les épopées de la Fédération permettront de
-    > suivre les tickets afférants dans les équipes concernées. Les US
-    > des épopées seront dans les backlogs des équipes
-    > concernées.]{dir="ltr"}
+Le Comité soutient le Capitaine lors de sa recherche d'experts pour son équipe.
 
--   [**Email** : c'est facultatif, mais chaudement recommandé, surtout
-    > si la Fédération doit s'abonner à des newsletters, s'inscrire à
-    > des sites etc...]{dir="ltr"}
+La Fédération est soutenue dans ses actions, ses réflexions et ses décisions, ou même en cas de conflit, par ce Comité à tout moment de son cycle de vie.
 
--   [**Compte Rendu** : Toutes les actions du CR doivent être
-    > communiquées aux équipes concernées : par mail, par slack (le
-    > canal de la Fédération, ainsi que le canal des Fédérations), par
-    > Confluence...]{dir="ltr"}
+Elle peut se tourner à tout moment vers cette entité au travers de son capitaine.
 
--   **[et toute autre forme et support de communication possible et
-    > imaginable (newsletters, meetups, bbl, \...) !]{dir="ltr"}**
+Le Comité s'assure de l'alignement des actions des Fédérations par rapport à la stratégie du Groupe.
 
-[]{dir="ltr"}
+Le capitaine pourra s'appuyer sur l'expertise du Comité pour analyser la pertinence des sujets abordés.
 
-[Ces axes de communication permettront un échange constant entre la
-Fédération et ses consommateurs pour s'assurer d'un feedback
-continu.]{dir="ltr"}
+Le Comité valide la formation ou la dissolution des Fédérations.
 
-[La Fédération veillera à la remontée d'alertes, elle prendra soin de
-prévenir des attentes qu'elle fait porter sur chaque équipe, afin que
-les POs puissent anticiper la priorisation d'actions de
-convergence]{dir="ltr"}
+Le Comité a un organisateur et coordinateur qui suivra l'amélioration continue du Comité.
 
-[]{dir="ltr"}
+La Fédération peut faire appel à des compétences extérieures, des outils (licences...) avec le soutien budgétaire du Comité.
 
-[La Fédération a le pouvoir de lancer des audits, afin de cibler les
-équipes les plus en attentes de support. Elle suit l'application de ses
-normes, s'assure de l'accomplissement de sa roadmap, lance des ETTs afin
-d'explorer des champs technologiques ou coloniser des
-pratiques.]{dir="ltr"}
-
-[]{dir="ltr"}
-
-**[La Fédération n'est jamais seule]{dir="ltr"}**
-
-[]{dir="ltr"}
-
-[Nous avons évoqué le Comité, une entité composée des IT Managers, du
-CTO, mais également des TLs du groupe TLC.]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[Le Comité soutient le Capitaine lors de sa recherche d'experts pour son
-équipe.]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[La Fédération est soutenue dans ses actions, ses réflexions et ses
-décisions, ou même en cas de conflit, par ce Comité à tout moment de son
-cycle de vie.]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[Elle peut se tourner à tout moment vers cette entité au travers de son
-capitaine.]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[Le Comité s'assure de l'alignement des actions des Fédérations par
-rapport à la stratégie du Groupe.]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[Le capitaine pourra s'appuyer sur l'expertise du Comité pour analyser
-la pertinence des sujets abordés.]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[Le Comité valide la formation ou la dissolution des
-Fédérations.]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[Le Comité a un organisateur et coordinateur qui suivra l'amélioration
-continue du Comité.]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[La Fédération peut faire appel à des compétences extérieures, des
-outils (licences...) avec le soutien budgétaire du Comité.]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[Les fiches mémoire.]{dir="ltr"}
-================================
-
-[]{dir="ltr"}
-
+## Les fiches mémoire.
 [La Fédération en un tableau]{dir="ltr"}
 ----------------------------------------
 
