@@ -49,104 +49,39 @@ préparer à minima le voyage, une anaphore s'impose :
 * j'ai à ma tête un **capitaine** et un **greffier,**
 * je suis composée d'un minimum de **5 membres**, et d'un maximum de **8 membres**, de tous horizons : **SL** comme **LI**, **interne, externe (sauf capitaine),**
 * je tolère les **observateurs** (nous reviendrons plus loin sur le rôle de l'observateur),
+* je **communique** sur mon action et diffuse mon savoir, je suis joignable facilement et publiquement,
+* je dispose d'un **budget** de fonctionnement soumis à la validation du comité,
+* je mets en place mes **KPI**,
+* A ma création, je définis la fréquence des rencontres, le temps alloué pour le sujet de la Fédération, ces valeurs pourront par la suite évoluer,
+* je peux fonctionner avec des membres en remote sans problème,
+* Je m'assure que les choix sont faits démocratiquement et en accord avec le cadre de la stratégie Groupe : votés à la majorité absolue,
+* je prône la **transparence** sur mon action et mes choix : je les rends disponible à tous, sous slack, confluence, board visuel....
+* j'ai la capacité de suivre l'implémentation des normes émises.
 
--   [je **communique** sur mon action et diffuse mon savoir, je suis
-    > joignable facilement et publiquement,]{dir="ltr"}
+## Comment créer sa Fédération
+Ci-dessous, 2 graphiques pour suivre la création d'une Fédération et en définir le cadre, et légitimité.
 
--   [je dispose d'un **budget** de fonctionnement soumis à la validation
-    > du comité,]{dir="ltr"}
 
--   [je mets en place mes **KPI**,]{dir="ltr"}
 
--   [A ma création, je définis la fréquence des rencontres, le temps
-    > alloué pour le sujet de la Fédération, ces valeurs pourront par la
-    > suite évoluer,]{dir="ltr"}
+## Y'a-t-il un pilote dans la Fédération ?
 
--   [je peux fonctionner avec des membres en remote sans
-    > problème,]{dir="ltr"}
+Dans la partie précédente nous avons défini l'objectif et les grandes lignes de la Fédération maintenant il faut voir comment gérer le travail au quotidien. Une fédération a besoin de quelqu'un pour mener la barque, préparer le terrain des échanges, **une tête de gondole** identifiable et identifiée, à l'aise avec la gestion de projet et l'encadrement. En somme un pilote sachant monter une **équipe** (qu'il proposera au Comité pour validation) et maintenir la Fédération dans le cap défini par la **stratégie Groupe**...
 
--   [Je m'assure que les choix sont faits démocratiquement et en accord
-    > avec le cadre de la stratégie Groupe : votés à la majorité
-    > absolue,]{dir="ltr"}
+Nous avons fait preuve d'une grande richesse lexicale en utilisant le terme de « **Capitaine** ».
 
--   [je prône la **transparence** sur mon action et mes choix : je les
-    > rends disponible à tous, sous slack, confluence, board
-    > visuel....]{dir="ltr"}
+Capitaine ne veut pas dire qu'on a plus de poids dans les décisions prise par la Fédération, il sera là pour s'assurer que toutes les
+informations sont bien portées à la connaissance des membres de l'équipe, **il organise et oriente les travaux de la fédération**, il
+prendra garde d'**éclairer** les débats avec tout son savoir, car oui, le capitaine se doit de connaître le sujet qu'il traite et avoir une appétence sur le domaine de la Fédération.
 
--   [j'ai la capacité de suivre l'implémentation des normes
-    > émises.]{dir="ltr"}
+Le Capitaine est un évangélisateur des actions de la Fédération, et responsable de la bonne diffusion des informations.
 
-[]{dir="ltr"}
+En aucun cas, il n'a de droit de véto.
 
-[ ]{dir="ltr"}
+La capitaine anime la Fédération, il s'assure que les conditions sont réunies pour produire des normes et des bonnes pratiques dans de bonnes conditions. Il est le **garant** du bon fonctionnement de la Fédération et de son alignement avec la stratégie Groupe.
 
-[ ]{dir="ltr"}\
-[]{dir="ltr"}
+Il est également en charge de la bonne prise en compte des actions par les équipes impactées.
 
-[Comment créer sa Fédération]{dir="ltr"}
-========================================
-
-[Ci-dessous, 2 graphiques pour suivre la création d'une Fédération et en
-définir le cadre, et légitimité.]{dir="ltr"}
-
-![](media/image5.png){width="6.270833333333333in"
-height="3.361111111111111in"}[]{dir="ltr"}
-
-[]{dir="ltr"}
-
-![](media/image3.png){width="6.270833333333333in"
-height="3.5555555555555554in"}[]{dir="ltr"}
-
- []{dir="ltr"}
-=============
-
-[Y'a-t-il un pilote dans la Fédération ?]{dir="ltr"}
-====================================================
-
-[]{dir="ltr"}
-
-[ ]{dir="ltr"}
-
-[Dans la partie précédente nous avons défini l'objectif et les grandes
-lignes de la Fédération maintenant il faut voir comment gérer le travail
-au quotidien. Une fédération a besoin de quelqu'un pour mener la barque,
-préparer le terrain des échanges, **une tête de gondole** identifiable
-et identifiée, à l'aise avec la gestion de projet et l'encadrement**.**
-En somme un pilote sachant monter une **équipe** (qu'il proposera au
-Comité pour validation) et maintenir la Fédération dans le cap défini
-par la **stratégie Groupe**...]{dir="ltr"}
-
-[Nous avons fait preuve d'une grande richesse lexicale en utilisant le
-terme de « **Capitaine** ».]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[Capitaine ne veut pas dire qu'on a plus de poids dans les décisions
-prise par la Fédération, il sera là pour s'assurer que toutes les
-informations sont bien portées à la connaissance des membres de
-l'équipe, **il organise et oriente les travaux de la fédération**, il
-prendra garde d'**éclairer** les débats avec tout son savoir, car oui,
-le capitaine se doit de connaître le sujet qu'il traite et avoir une
-appétence sur le domaine de la Fédération.]{dir="ltr"}
-
-[Le Capitaine est un évangélisateur des actions de la Fédération, et
-responsable de la bonne diffusion des informations.]{dir="ltr"}
-
-[En aucun cas, il n'a de droit de véto.]{dir="ltr"}
-
-[La capitaine anime la Fédération, il s'assure que les conditions sont
-réunies pour produire des normes et des bonnes pratiques dans de bonnes
-conditions. Il est le **garant** du bon fonctionnement de la Fédération
-et de son alignement avec la stratégie Groupe.]{dir="ltr"}
-
-[Il est également en charge de la bonne prise en compte des actions par
-les équipes impactées.]{dir="ltr"}
-
-[Il est l'interlocuteur privilégié du Comité, et vous pouvez lire la
-suite [[ici]{.underline}](#_8sci4vvw6s4p) sur ce sujet. ("La Fédération
-n'est jamais seule").]{dir="ltr"}
-
-[]{dir="ltr"}
+Il est l'interlocuteur privilégié du Comité, et vous pouvez lire la suite ici sur ce sujet. ("La Fédération n'est jamais seule").
 
 [**Le Capitaine est un Team Leader**.]{dir="ltr"}
 
