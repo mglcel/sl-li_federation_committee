@@ -129,108 +129,72 @@ Le Comité a un organisateur et coordinateur qui suivra l'amélioration continue
 La Fédération peut faire appel à des compétences extérieures, des outils (licences...) avec le soutien budgétaire du Comité.
 
 ## Les fiches mémoire.
-[La Fédération en un tableau]
+
+### La Fédération en un tableau
 
 Définition | Règles
 ---------- | ------
   Composition | Sélection par le capitaine / validé par le comité
- - | Présence obligatoire, hormis observateurs (3 max par réunion).
- - | De 5 à 8 experts, dont le capitaine et le greffier.
- - | Mixité LI - SL]
- - | Ouvert aux membres hors IT si jugé pertinent par le comité
+ _ | Présence obligatoire, hormis observateurs (3 max par réunion).
+ _ | De 5 à 8 experts, dont le capitaine et le greffier.
+ _ | Mixité LI - SL]
+ _ | Ouvert aux membres hors IT si jugé pertinent par le comité
 Objectifs | Créer des normes et suivre leur application
- - | Définir et diffuser les bonnes pratiques 
- - | Veille technologique / et initiatives internes 
- - | Support à la décision 
- - | Respecter et implémenter la stratégie IT du groupe. 
+ _ | Définir et diffuser les bonnes pratiques 
+ _ | Veille technologique / et initiatives internes 
+ _ | Support à la décision 
+ _ | Respecter et implémenter la stratégie IT du groupe. 
  Communication | Slack / Mail / Review → Evangélisation 
- - | Régulière et ciblée 
- - | Documentation 
- - | Kugawana et Meetups 
- - | Définie par la fédération 
+ _ | Régulière et ciblée 
+ _ | Documentation 
+ _ | Kugawana et Meetups 
+ _ | Définie par la fédération 
  Support | Accompagner les équipes / Faciliter la vie!
-- | Suivre la mise en place des recommandations
-- | Mesurer les delta des équipes espéré / réel
+_ | Suivre la mise en place des recommandations
+_ | Mesurer les delta des équipes espéré / réel
 Pouvoirs | Créer des taskforces
-- | Créer des ETT
-- | Créer des US dans les équipes, priorisées par le PO
-- | Faire des audits
+_ | Créer des ETT
+_ | Créer des US dans les équipes, priorisées par le PO
+_ | Faire des audits
 
 
-[Le capitaine en un]{dir="ltr"} [tableau]{dir="ltr"}
-----------------------------------------------------
+### Le capitaine 
 
-[]{dir="ltr"}
+- Il est garant du bon fonctionnement de la Fédération
+- Il est responsable de la bonne réalisation de la roadmap de la Fédération, il oriente les travaux et propose les sujets de débat
+- Propose son équipe 
+- De par ses connaissances, il est légitime sur l'objectif de la Fédération 
+- A le même poids que les autres experts de la fédération, son vote ne compte pas double et il n'a pas de droit de véto 
+- Il s'assure que l'intendance (réservation de salles, matériel, licences, disponibilités) est assurée dans la Fédération 
+- Il s'assure de la bonne communication interne et externe avec le support du greffier et des différents outils 
+- Il est la tête de gondole (physique d\'Apollon / Venus exigé, Gollum interdit) : le représentant de la Fédération 
+- il s'assure de la mise en place et de la mise à jour des KPIs ainsi que de leur large diffusion 
+- Il peut changer la composition de son équipe sur validation expresse du comité 
 
-  [Il est garant du bon fonctionnement de la Fédération]{dir="ltr"}
-  -----------------------------------------------------------------------------------------------------------------------------------------------
-  [Il est responsable de la bonne réalisation de la roadmap de la Fédération, il oriente les travaux et propose les sujets de débat]{dir="ltr"}
-  [Propose son équipe]{dir="ltr"}
-  [De par ses connaissances, il est légitime sur l'objectif de la Fédération]{dir="ltr"}
-  [A le même poids que les autres experts de la fédération, son vote ne compte pas double et il n'a pas de droit de véto]{dir="ltr"}
-  [Il s'assure que l'intendance (réservation de salles, matériel, licences, disponibilités) est assurée dans la Fédération]{dir="ltr"}
-  [Il s'assure de la bonne communication interne et externe avec le support du greffier et des différents outils]{dir="ltr"}
-  [Il est la tête de gondole (physique d\'Apollon / Venus exigé, Gollum interdit) : le représentant de la Fédération]{dir="ltr"}
-  [il s'assure de la mise en place et de la mise à jour des KPIs ainsi que de leur large diffusion]{dir="ltr"}
-  [Il peut changer la composition de son équipe sur validation expresse du comité]{dir="ltr"}
+### Glossaire
 
-[]{dir="ltr"}
+*"Mal nommer les choses, c\'est ajouter aux malheurs du monde"*
+La Fouine, 30 février 1943
 
- []{dir="ltr"}
-=============
 
-[Glossaire]{dir="ltr"}
-======================
+**Comité **
 
-*["Mal nommer les choses, c\'est ajouter aux malheurs du
-monde"]{dir="ltr"}*
+Le comité est l'entité avalisant la création de Fédération, il s'assure que la Fédération proposée est conforme aux règles édictées. De plus, il a tout pouvoir pour dissoudre une Fédération. Le comité est composé des ITM, du CTO, ainsi que des TL appartenant au groupe TLC. Le comité est un facilitateur pour la Fédération. Il s'assure que les actions de la Fédération respectent le cadre de la stratégie Groupe. Il se retrouve périodiquement une fois par trimestre à minima. A l'occasion de ce point, nous aborderons les KPI des Fédérations, les propositions de création/dissolution de Fédérations, ainsi que les objectifs des Fédérations, nous mettrons à jour le livre blanc le cas échéant. Le comité revoit régulièrement les réalisations de la fédération.
 
-[La Fouine, 30 février 1943]{dir="ltr"}
 
-[]{dir="ltr"}
+**Greffier**
 
-[]{dir="ltr"}
+La Fédération a comme obligation de diffuser son savoir, ses pratiques, cela passe par de l'écrit, c'est là que le greffier intervient. Il est garant de la retranscription des échanges. Ce rôle peut être tournant au sein de la Fédération. Il supporte le Capitaine dans le cadre des fonctions de communication vers l'extérieur.
 
-**[Comité]{dir="ltr"}**
 
-[Le comité est l'entité avalisant la création de Fédération, il s'assure
-que la Fédération proposée est conforme aux règles édictées. De plus, il
-a tout pouvoir pour dissoudre une Fédération. Le comité est composé des
-ITM, du CTO, ainsi que des TL appartenant au groupe TLC. Le comité est
-un facilitateur pour la Fédération. Il s'assure que les actions de la
-Fédération respectent le cadre de la stratégie Groupe. Il se retrouve
-périodiquement une fois par trimestre à minima. A l'occasion de ce
-point, nous aborderons les KPI des Fédérations, les propositions de
-création/dissolution de Fédérations, ainsi que les objectifs des
-Fédérations, nous mettrons à jour le livre blanc le cas échéant. Le
-comité revoit régulièrement les réalisations de la
-fédération.]{dir="ltr"}
+**Observateur**
 
-[]{dir="ltr"}
-
-[**Greffier**]{dir="ltr"}
-
-[La Fédération a comme obligation de diffuser son savoir, ses pratiques,
-cela passe par de l'écrit, c'est là que le greffier intervient. Il est
-garant de la retranscription des échanges. Ce rôle peut être tournant au
-sein de la Fédération. Il supporte le Capitaine dans le cadre des
-fonctions de communication vers l'extérieur.]{dir="ltr"}
-
-[]{dir="ltr"}
-
-**[Observateur]{dir="ltr"}**
-
-[L'observateur est une personne souhaitant participer aux sessions de la
+L'observateur est une personne souhaitant participer aux sessions de la
 Fédération, il peut donner son avis, remonter des informations, mais n'a
 pas de droit de vote au sein de la Fédération. Sa venue dans les
 sessions est soumise à la validation de la Fédération (« *T'as des
 baskets ? Tu rentres pas !* » Christophe Castaner). Ce rôle n'est soumis
 à aucune obligation de présence. Pas de limite d'observateurs dans une
 Fédération, mais une présence limitée à 3 obs dans une session de la
-Fédération.]{dir="ltr"}
+Fédération.]
 
-[ ]{dir="ltr"}
-
-[ ]{dir="ltr"}
-
-[]{dir="ltr"}
