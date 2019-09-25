@@ -1,77 +1,32 @@
-#Ou comment j'ai créé ma Fédération.
+# Ou comment j'ai créé ma Fédération.
 
-[ ]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[]{dir="ltr"}
-
-![](media/image2.png){width="3.6458333333333335in"
-height="2.0833333333333335in"}[]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[Par la chaleureuse équipe de TLC composée d'Alexandrine, Arnaud, Cyril,
-Imane, Julien, Samuel et Vincent]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[]{dir="ltr"}![](media/image1.png){width="2.1979166666666665in"
-height="3.125in"}
-
-[« Le Groupe SeLoger, frontière de l\'infini, vers lequel voyage notre
+*« Le **Groupe SeLoger**, frontière de l\'infini, vers lequel voyage notre
 vaisseau spatial. Sa mission : explorer de nouvelles technologies
 étranges, découvrir de nouveaux process, d\'autres compétences, et au
-mépris du danger, accompagner vers l\'inconnu\... »]{dir="ltr"}
+mépris du danger, accompagner vers l\'inconnu\... »* 
 
-*[Star Trek, revu et corrigé pour les besoins de la
-Fédération]{dir="ltr"}*
+*Star Trek, revu et corrigé pour les besoins de la
+**Fédération***
 
-[ ]{dir="ltr"}
+**La Fédération est là pour vous aider. A travers ce document, nous allons donc vous expliquer son but, sa vie, son œuvre. Et avec un peu de chance, à la fin, vous aurez envie d'en être.**
 
-[]{dir="ltr"}
 
-[La Fédération est là pour vous aider. A travers ce document, nous
-allons donc vous expliquer son but, sa vie, son œuvre. Et avec un peu de
-chance, à la fin, vous aurez envie d'en être.]{dir="ltr"}
+## Une Fédération, oui...mais pourquoi ?
 
-[ ]{dir="ltr"}
+L'IT converge vers un niveau de qualité de développement en constante augmentation, les exigences de qualité et de portabilité de nos
+technologies également.
 
-[]{dir="ltr"}
+Notre activité nous amène à bien plus échanger et partager et à être de plus en plus réactifs face aux défis d'Internet et donc face à la concurrence.
 
-[Une Fédération, oui...mais pourquoi ?]{dir="ltr"}
-==================================================
+[Comment échanger si on ne parle pas la même langue ?]
 
-[ ]{dir="ltr"} ![](media/image6.png){width="3.125in"
-height="3.125in"}[]{dir="ltr"}
-
-[L'IT converge vers un niveau de qualité de développement en constante
-augmentation, les exigences de qualité et de portabilité de nos
-technologies également.]{dir="ltr"}
-
-[Notre activité nous amène à bien plus échanger et partager et à être de
-plus en plus réactifs face aux défis d'Internet et donc face à la
-concurrence.]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[Comment échanger si on ne parle pas la même langue ?]{dir="ltr"}
-
-[Comment avoir des choix cohérents entre les équipes ?]{dir="ltr"}
+[Comment avoir des choix cohérents entre les équipes ?]
 
 [Comment diffuser les bonnes pratiques, les partager, convaincre de les
-utiliser?]{dir="ltr"}
+utiliser?]
 
 [Comment capitaliser sur nos expériences au niveau du Groupe
-Seloger?]{dir="ltr"}
-
-[]{dir="ltr"}
+Seloger?]
 
 [La réponse, et ça tombe bien car c'est l'objet du document : la
 Fédération !]{dir="ltr"}
