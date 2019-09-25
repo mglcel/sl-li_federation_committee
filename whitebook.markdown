@@ -18,76 +18,37 @@ technologies également.
 
 Notre activité nous amène à bien plus échanger et partager et à être de plus en plus réactifs face aux défis d'Internet et donc face à la concurrence.
 
-[Comment échanger si on ne parle pas la même langue ?]
+### Comment échanger si on ne parle pas la même langue ?
 
-[Comment avoir des choix cohérents entre les équipes ?]
+### Comment avoir des choix cohérents entre les équipes ?
 
-[Comment diffuser les bonnes pratiques, les partager, convaincre de les
-utiliser?]
+### Comment diffuser les bonnes pratiques, les partager, convaincre de les utiliser?
 
-[Comment capitaliser sur nos expériences au niveau du Groupe
-Seloger?]
+### Comment capitaliser sur nos expériences au niveau du Groupe Seloger?
 
-[La réponse, et ça tombe bien car c'est l'objet du document : la
-Fédération !]{dir="ltr"}
+### La réponse, et ça tombe bien car c'est l'objet du document : la **Fédération** !
 
-[]{dir="ltr"}
+Une Fédération est une association normative. Elle définit les bonnes pratiques à suivre et les diffuse. Elle accompagne les équipes en leur délivrant un niveau de connaissance et de compétence élevé leur permettant d'avancer plus sereinement dans leur développement.
+L'objectif : un cercle vertueux nous emmenant vers toujours plus de qualité et de performance, pour nos utilisateurs, leur confort quotidien et leur satisfaction en ligne de mire.
 
-[Une Fédération est une association normative. Elle définit les bonnes
-pratiques à suivre et les diffuse. Elle accompagne les équipes en leur
-délivrant un niveau de connaissance et de compétence élevé leur
-permettant d'avancer plus sereinement dans leur développement.
-L'objectif : un cercle vertueux nous emmenant vers toujours plus de
-qualité et de performance, pour nos utilisateurs, leur confort quotidien
-et leur satisfaction en ligne de mire.]{dir="ltr"}
+Une fois cette définition donnée, voyons comment passer de la théorie à
+la pratique..]
 
-[]{dir="ltr"}
+## Une Fédération, oui...mais comment ?
 
-[Une fois cette définition donnée, voyons comment passer de la théorie à
-la pratique..]{dir="ltr"}
+Vous vous en doutez, on ne peut pas se lancer dans l'aventure sans
+préparer à minima le voyage, une anaphore s'impose :
 
-[ ]{dir="ltr"}
+**Moi Fédération** :
 
-[ ]{dir="ltr"}
-
- []{dir="ltr"}
-=============
-
-[Une Fédération, oui...mais comment ?]{dir="ltr"}
-=================================================
-
-![](media/image4.png){width="6.270833333333333in"
-height="1.7222222222222223in"} [ ]{dir="ltr"}
-
-[Vous vous en doutez, on ne peut pas se lancer dans l'aventure sans
-préparer à minima le voyage, une anaphore s'impose :]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[**Moi Fédération** :]{dir="ltr"}
-
--   [j'ai des objectifs édictés à ma création,]{dir="ltr"}
-
--   [j'ai été créé sur validation d'un **comité** (on va vous le
-    > présenter, vous verrez, ils sont très sympas),]{dir="ltr"}
-
--   [ma durée de vie est **longue** tant que je suis
-    > **pertinente,**]{dir="ltr"}
-
--   [je peux être **dissoute** sur demande de la Fédération elle même ou
-    > du **Comité**]{dir="ltr"}
-
--   [je ne suis composée que de membres dotés d'une expertise certaine
-    > sur le sujet considéré,]{dir="ltr"}
-
--   [j'ai à ma tête un **capitaine** et un **greffier,**]{dir="ltr"}
-
--   [je suis composée d'un minimum de **5 membres**, et d'un maximum de
-    > **8 membres**, de tous horizons : **SL** comme **LI**, **interne,
-    > externe (sauf capitaine),**]{dir="ltr"}
-
--   [je tolère les **observateurs** (nous reviendrons plus loin sur le
-    > rôle de l'observateur),]{dir="ltr"}
+* j'ai des objectifs édictés à ma création,
+* j'ai été créé sur validation d'un **comité** (on va vous le présenter, vous verrez, ils sont très sympas),
+* ma durée de vie est **longue** tant que je suis **pertinente,**
+* je peux être **dissoute** sur demande de la Fédération elle même ou du **Comité**
+* je ne suis composée que de membres dotés d'une expertise certaine sur le sujet considéré,
+* j'ai à ma tête un **capitaine** et un **greffier,**
+* je suis composée d'un minimum de **5 membres**, et d'un maximum de **8 membres**, de tous horizons : **SL** comme **LI**, **interne, externe (sauf capitaine),**
+* je tolère les **observateurs** (nous reviendrons plus loin sur le rôle de l'observateur),
 
 -   [je **communique** sur mon action et diffuse mon savoir, je suis
     > joignable facilement et publiquement,]{dir="ltr"}
