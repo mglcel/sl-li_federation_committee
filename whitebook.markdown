@@ -1,4 +1,4 @@
-# Ou comment j'ai créé ma Fédération.
+# Ma Fédération.
 
 *« Le **Groupe SeLoger**, frontière de l\'infini, vers lequel voyage notre
 vaisseau spatial. Sa mission : explorer de nouvelles technologies
@@ -33,6 +33,7 @@ L'objectif : un cercle vertueux nous emmenant vers toujours plus de qualité et 
 
 Une fois cette définition donnée, voyons comment passer de la théorie à
 la pratique..]
+
 
 ## Une Fédération, oui...mais comment ?
 
@@ -89,6 +90,7 @@ Il est l'interlocuteur privilégié du Comité, et vous pouvez lire la suite ici
 
 **Le Capitaine est un Team Leader**.
 
+
 ## Comment un cartel expert peut vendre sa came ?
 
 La Fédération produit de la convergence, au travers de normes, de bonnes pratiques, de POC, d'avis. Son but est bien de **fédérer** au-delà d'elle même, il est indispensable de diffuser largement ce travail. Rendre accessible ces résultats est une obligation :
@@ -107,6 +109,7 @@ La Fédération veillera à la remontée d'alertes, elle prendra soin de préven
 
 La Fédération a le pouvoir de lancer des audits, afin de cibler les équipes les plus en attentes de support. Elle suit l'application de ses normes, s'assure de l'accomplissement de sa roadmap, lance des ETTs afin d'explorer des champs technologiques ou coloniser des
 pratiques.
+
 
 **La Fédération n'est jamais seule**
 
@@ -127,6 +130,7 @@ Le Comité valide la formation ou la dissolution des Fédérations.
 Le Comité a un organisateur et coordinateur qui suivra l'amélioration continue du Comité.
 
 La Fédération peut faire appel à des compétences extérieures, des outils (licences...) avec le soutien budgétaire du Comité.
+
 
 ## Les fiches mémoire.
 
@@ -177,7 +181,7 @@ _ | Faire des audits
 La Fouine, 30 février 1943
 
 
-**Comité **
+**Comité**
 
 Le comité est l'entité avalisant la création de Fédération, il s'assure que la Fédération proposée est conforme aux règles édictées. De plus, il a tout pouvoir pour dissoudre une Fédération. Le comité est composé des ITM, du CTO, ainsi que des TL appartenant au groupe TLC. Le comité est un facilitateur pour la Fédération. Il s'assure que les actions de la Fédération respectent le cadre de la stratégie Groupe. Il se retrouve périodiquement une fois par trimestre à minima. A l'occasion de ce point, nous aborderons les KPI des Fédérations, les propositions de création/dissolution de Fédérations, ainsi que les objectifs des Fédérations, nous mettrons à jour le livre blanc le cas échéant. Le comité revoit régulièrement les réalisations de la fédération.
 
