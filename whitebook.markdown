@@ -129,12 +129,13 @@ Le Comité a un organisateur et coordinateur qui suivra l'amélioration continue
 La Fédération peut faire appel à des compétences extérieures, des outils (licences...) avec le soutien budgétaire du Comité.
 
 ## Les fiches mémoire.
-[La Fédération en un tableau]{dir="ltr"}
-----------------------------------------
+[La Fédération en un tableau]
 
-  [Composition]{dir="ltr"}          [Sélection par le capitaine / validé par le comité]{dir="ltr"}
-  --------------------------------- -----------------------------------------------------------------------------
-  []{dir="ltr"}                     [Présence obligatoire, hormis observateurs (3 max par réunion).]{dir="ltr"}
+                      |                     
+---------------------- | ------------------------     
+  Composition | Sélection par le capitaine / validé par le comité
+---------------------- | ------------------------
+ | Présence obligatoire, hormis observateurs (3 max par réunion).
   []{dir="ltr"}                     [De 5 à 8 experts, dont le capitaine et le greffier.]{dir="ltr"}
   []{dir="ltr"}                     [Mixité LI - SL]{dir="ltr"}
   []{dir="ltr"}                     [Ouvert aux membres hors IT si jugé pertinent par le comité]{dir="ltr"}
