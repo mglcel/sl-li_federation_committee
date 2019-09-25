@@ -131,8 +131,8 @@ La Fédération peut faire appel à des compétences extérieures, des outils (l
 ## Les fiches mémoire.
 [La Fédération en un tableau]
 
-                      |                     
----------------------- | ------------------------     
+Définition | Règles
+---------- | ------
   Composition | Sélection par le capitaine / validé par le comité
 ---------------------- | ------------------------
  | Présence obligatoire, hormis observateurs (3 max par réunion).
