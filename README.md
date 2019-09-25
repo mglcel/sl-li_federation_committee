@@ -13,8 +13,12 @@ mépris du danger, accompagner vers l\'inconnu\... »*
 > **La Fédération est là pour vous aider. A travers ce document, nous allons donc vous expliquer son but, sa vie, son œuvre. Et avec un peu
 > de chance, à la fin, vous aurez envie d'en être.**
 
+1. [Une Fédération, oui...mais pourquoi ?](#why)
+2. [Some paragraph](#paragraph1)
+3. [Sub paragraph](#subparagraph1)
+4. [Another paragraph](#paragraph2)
 
-## Une Fédération, oui...mais pourquoi ?
+## <a name="why">Une Fédération, oui...mais pourquoi ?</a>
 
 L'IT converge vers un niveau de qualité de développement en constante augmentation, les exigences de qualité et de portabilité de nos technologies également.
 
