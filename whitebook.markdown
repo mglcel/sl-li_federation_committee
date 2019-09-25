@@ -134,30 +134,28 @@ La Fédération peut faire appel à des compétences extérieures, des outils (l
 Définition | Règles
 ---------- | ------
   Composition | Sélection par le capitaine / validé par le comité
-   | Présence obligatoire, hormis observateurs (3 max par réunion).
-   | De 5 à 8 experts, dont le capitaine et le greffier.
-   | Mixité LI - SL]
-   | Ouvert aux membres hors IT si jugé pertinent par le comité
+ - | Présence obligatoire, hormis observateurs (3 max par réunion).
+ - | De 5 à 8 experts, dont le capitaine et le greffier.
+ - | Mixité LI - SL]
+ - | Ouvert aux membres hors IT si jugé pertinent par le comité
 Objectifs | Créer des normes et suivre leur application
-  []{dir="ltr"}                     [Définir et diffuser les bonnes pratiques]{dir="ltr"}
-  []{dir="ltr"}                     [Veille technologique / et initiatives internes]{dir="ltr"}
-  []{dir="ltr"}                     [Support à la décision]{dir="ltr"}
-  []{dir="ltr"}                     [Respecter et implémenter la stratégie IT du groupe.]{dir="ltr"}
-  [Communication]{dir="ltr"}        [Slack / Mail / Review → Evangélisation]{dir="ltr"}
-  []{dir="ltr"}                     [Régulière et ciblée]{dir="ltr"}
-  []{dir="ltr"}                     [Documentation]{dir="ltr"}
-  []{dir="ltr"}                     [Kugawana et Meetups]{dir="ltr"}
-  [Roadmap Fédération]{dir="ltr"}   [Définie par la fédération]{dir="ltr"}
-  [Support]{dir="ltr"}              [Accompagner les équipes / Faciliter la vie!]{dir="ltr"}
-  []{dir="ltr"}                     [Suivre la mise en place des recommandations]{dir="ltr"}
-  []{dir="ltr"}                     [Mesurer les delta des équipes espéré / réel]{dir="ltr"}
-  [Pouvoirs]{dir="ltr"}             [Créer des taskforces]{dir="ltr"}
-  []{dir="ltr"}                     [Créer des ETT]{dir="ltr"}
-  []{dir="ltr"}                     [Créer des US dans les équipes, priorisées par le PO]{dir="ltr"}
-  []{dir="ltr"}                     [Faire des audits]{dir="ltr"}
+ - | Définir et diffuser les bonnes pratiques 
+ - | Veille technologique / et initiatives internes 
+ - | Support à la décision 
+ - | Respecter et implémenter la stratégie IT du groupe. 
+ Communication | Slack / Mail / Review → Evangélisation 
+ - | Régulière et ciblée 
+ - | Documentation 
+ - | Kugawana et Meetups 
+ - | Définie par la fédération 
+ Support | Accompagner les équipes / Faciliter la vie!
+- | Suivre la mise en place des recommandations
+- | Mesurer les delta des équipes espéré / réel
+Pouvoirs | Créer des taskforces
+- | Créer des ETT
+- | Créer des US dans les équipes, priorisées par le PO
+- | Faire des audits
 
- []{dir="ltr"}
--------------
 
 [Le capitaine en un]{dir="ltr"} [tableau]{dir="ltr"}
 ----------------------------------------------------
